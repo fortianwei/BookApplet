@@ -42,8 +42,13 @@ npm run dev
 效果图
 --
 ![](https://github.com/moxier/BookApplet/blob/master/img/01.png)
+
 ![](https://github.com/moxier/BookApplet/blob/master/img/02.jpg)
+
 ![](https://github.com/moxier/BookApplet/blob/master/img/03.jpg)
+
 ![](https://github.com/moxier/BookApplet/blob/master/img/04.png)
+
 ![](https://github.com/moxier/BookApplet/blob/master/img/05.png)
+
 ![](https://github.com/moxier/BookApplet/blob/master/img/06.jpg)
