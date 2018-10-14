@@ -5,10 +5,10 @@
 BASE_API_HOST = "http://api.zhuishushenqi.com"
 
 # APPID
-APPID = "wx20d0b0a508db6871"
+APPID = "xxxx"
 
 # SECRET
-APP_SECRET_KEY = "58760318c34ed619eb2b214dd8aa54c7"
+APP_SECRET_KEY = "xxx"
 
 # 数据库链接字符串 dialect+driver://username:password@host:port/database
 # 链接数据库类型
