@@ -28,7 +28,7 @@ npm install
 ```
 
 
-3. 在`books/server`目录下(需要安装`pipenv`)
+3. 在`books/server/novel`目录下(需要安装`pipenv`)
 ```shell
 pipenv install
 ```
