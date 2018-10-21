@@ -61,24 +61,17 @@ npm run dev
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/03.jpg)
 
-<<<<<<< HEAD
 ![](https://github.com/moxier/BookApplet/blob/master/img/07.png)
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/08.png)
 
-=======
->>>>>>> 0ef4b0e9b6ed4074581f7f5f76e3efaafe258168
 ![](https://github.com/moxier/BookApplet/blob/master/img/04.png)
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/05.png)
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/06.jpg)
 
-
 最后
 --
-<<<<<<< HEAD
 虽然代码很渣，小程序也还有部分没有完成，但经过这次的练习，自己感觉还是有不少的收获的，希望自己能不断进步吧！
-=======
-虽然代码很渣，小程序也还有部分没有完成，但经过这次的练习，自己感觉还是有不少的收获的，希望自己能不断进步吧！
->>>>>>> 0ef4b0e9b6ed4074581f7f5f76e3efaafe258168
+
