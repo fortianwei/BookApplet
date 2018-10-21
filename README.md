@@ -7,6 +7,13 @@
 mpvue框架开发的微信小程序前端页面与后端资源进行交互。
 
 
+说明
+--
+小程序后端使用 Flask 提供 api 功能，用户权限管
+理 和 爬虫功能，并将书籍数据和用户信息数据保存于Mysql数据库，前端使用
+mpvue框架开发的微信小程序前端页面与后端资源进行交互。
+
+
 下载
 --
 ```shell
@@ -28,7 +35,7 @@ npm install
 ```
 
 
-3. 在`books/server`目录下(需要安装`pipenv`)
+3. 在`books/server/novel`目录下(需要安装`pipenv`)
 ```shell
 pipenv install
 ```
@@ -54,10 +61,13 @@ npm run dev
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/03.jpg)
 
+<<<<<<< HEAD
 ![](https://github.com/moxier/BookApplet/blob/master/img/07.png)
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/08.png)
 
+=======
+>>>>>>> 0ef4b0e9b6ed4074581f7f5f76e3efaafe258168
 ![](https://github.com/moxier/BookApplet/blob/master/img/04.png)
 
 ![](https://github.com/moxier/BookApplet/blob/master/img/05.png)
@@ -67,4 +77,8 @@ npm run dev
 
 最后
 --
+<<<<<<< HEAD
 虽然代码很渣，小程序也还有部分没有完成，但经过这次的练习，自己感觉还是有不少的收获的，希望自己能不断进步吧！
+=======
+虽然代码很渣，小程序也还有部分没有完成，但经过这次的练习，自己感觉还是有不少的收获的，希望自己能不断进步吧！
+>>>>>>> 0ef4b0e9b6ed4074581f7f5f76e3efaafe258168
