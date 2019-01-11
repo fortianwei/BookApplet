@@ -34,14 +34,15 @@ npm install
 pipenv install
 ```
 
+4. 在mysql数据库中创建 `novel_book` 数据库
 
-4. 开启`server`端
+5. 开启`server`端
 ```shell
 python novel.py
 ```
 
 
-5. 运行小程序
+6. 运行小程序
 ```shell 
 npm run dev
 ```
