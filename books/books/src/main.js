@@ -34,7 +34,7 @@ export default {
           pagePath: 'pages/search/main',
           text: '发现',
           iconPath: 'static/image/search.png',
-          selectedIconPath: 'static/image/search-active.png'
+          selectedIconPath: 'static/image/serach-active.png'
         },
         {
           pagePath: 'pages/me/main',
